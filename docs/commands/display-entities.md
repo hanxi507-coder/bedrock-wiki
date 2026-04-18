@@ -306,7 +306,7 @@ Please use the command that is best suited for the type of item you wish to disp
 
 </Spoiler>
 
-### Advanced FMBE Simulator
+### Advanced FMBE Simulato
 
 You can preview and experiment with variables using the 3D simulator here (Note: It's in Japanese):<br>
 🔗 **[Open Simulator (Desmos)](https://www.desmos.com/3d/mzzzuxssx7)**
